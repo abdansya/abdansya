@@ -13,7 +13,7 @@
 ```ts
 const abdansya = () => {
   return {
-    nama: "Abdan Syakuro",
+    name: "Abdan Syakuro",
     tech: {
         programming: ["PHP", "Javascript", "Golang"],
         database: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
