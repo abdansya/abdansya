@@ -1,16 +1,29 @@
-### Hi there 👋
+### <div align="center">Hello! 👋 I am Abdan Syakuro, Fullstack Developer</div>  
+  
+<br />
 
-<!--
-**abdansya/abdansya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏽‍💻 I’m currently open for a new opportunity! Preferably backend developer position
+  
+- ✨ I’m currently learning [Golang](https://golang.org/) and [Vuejs](https://vuejs.org/)
+  
+- ✉️ Reach me through email ae.abdansya@gmail.com
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```ts
+const abdansya = () => {
+  return {
+    nama: "Abdan Syakuro",
+    tech: {
+        programming: ["PHP", "Javascript", "Golang"],
+        database: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
+    },
+    social: {
+        linkedin : "https://www.linkedin.com/in/abdansya/",
+    },
+  }
+}
+```
+
+## 🛠 Skills
+Laravel, Codeigniter, Jquery, Vuejs, Golang
