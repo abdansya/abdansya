@@ -15,7 +15,7 @@ const abdansya = () => {
   return {
     name: "Abdan Syakuro",
     tech: {
-        programming: ["PHP", "Javascript", "Golang"],
+        programming: ["PHP", "Javascript", "Golang", "NodeJS"],
         database: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
     },
     social: {
