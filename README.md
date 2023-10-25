@@ -4,7 +4,7 @@
 
 - 👨🏽‍💻 I’m currently open for a new opportunity! Preferably backend developer position
   
-- ✨ I’m currently learning [Golang](https://golang.org/) and [Vuejs](https://vuejs.org/)
+- ✨ I’m currently learning [Golang](https://golang.org/) and [Nestjs](https://nestjs.com/)
   
 - ✉️ Reach me through email ae.abdansya@gmail.com
 
