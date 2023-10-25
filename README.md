@@ -26,4 +26,4 @@ const abdansya = () => {
 ```
 
 ## 🛠 Skills
-Laravel, Codeigniter, Jquery, Vuejs, Golang
+Laravel, Codeigniter, Jquery, Vuejs, Golang, Nodejs
